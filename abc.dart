@@ -1,3 +1,1 @@
-void main() {
-  print("abc.dart");
-}
+void main() {}
